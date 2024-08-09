@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
@@ -53,10 +53,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/512px-Three.js_Icon.svg.png" alt="three.js" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/512px-Three.js_Icon.svg.png" alt="three.js" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
   </a>
   <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -71,7 +71,6 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </div>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakriyamalik&show_icons=true&locale=en&layout=compact" alt="zakriyamalik" /></p>
 
