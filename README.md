@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Flutter, Java, Node.js, Express.js, MongoDB, React.js**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Flutter, Java, Node.js, Express.js, MongoDB, React.js** 
 
 - 📫 How to reach me **zakriyamalik852@gmail.com**
 
