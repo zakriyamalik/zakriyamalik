@@ -71,6 +71,15 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
+   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="anaconda" width="40" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="linux" width="40" height="40"/>
+  </a>
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakriyamalik&show_icons=true&locale=en&layout=compact" alt="zakriyamalik" /></p>
