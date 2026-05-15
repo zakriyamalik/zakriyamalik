@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 🌱 I’m currently learning **MERN** 
+- 🌱 I’m currently learning about **DevOps** 
 - 🌱 On a mission to understand and build with **Artificial Intelligence** for real-world applications.
 
 - 📫 How to reach me **zakriyamalik852@gmail.com**
