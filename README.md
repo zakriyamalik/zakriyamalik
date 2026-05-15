@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **zakriyamalik852@gmail.com**
 
-- ⚡ Fun fact **I think I am not Funny🙂**
 - ![Profile Views](https://komarev.com/ghpvc/?username=zakriyamalik&color=blue&style=flat)
 
 
